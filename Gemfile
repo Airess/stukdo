@@ -44,5 +44,10 @@ group :development, :test do
 
   gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 
+  # Adding Font Awesome gem 
+  gem 'font-awesome-rails'
+  
+  # Add Login System with Simple Forms 
+  gem 'simple_form'
 end
 
