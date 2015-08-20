@@ -50,8 +50,8 @@ group :development, :test do
   # Add Login System with Simple Forms 
   gem 'simple_form'
 
-
   # Add User Authentication with Devise 
   gem 'devise'
+  
 end
 
